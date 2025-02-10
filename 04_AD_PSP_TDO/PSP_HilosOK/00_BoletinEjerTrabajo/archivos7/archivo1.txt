@@ -1,8 +1,0 @@
-cursos
-empresa
-Fernando
-tareas
-android
-studio
-Fernando
-eclipse
